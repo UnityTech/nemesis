@@ -4,9 +4,9 @@ package runner
 import (
 	"flag"
 
-	"github.com/Unity-Technologies/nemesis/pkg/client"
-	"github.com/Unity-Technologies/nemesis/pkg/report"
-	"github.com/Unity-Technologies/nemesis/pkg/utils"
+	"github.com/UnityTech/nemesis/pkg/client"
+	"github.com/UnityTech/nemesis/pkg/report"
+	"github.com/UnityTech/nemesis/pkg/utils"
 	"github.com/golang/glog"
 )
 

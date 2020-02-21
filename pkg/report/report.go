@@ -4,7 +4,7 @@ package report
 import (
 	"encoding/json"
 
-	"github.com/Unity-Technologies/nemesis/pkg/cis"
+	"github.com/UnityTech/nemesis/pkg/cis"
 	"github.com/golang/glog"
 )
 

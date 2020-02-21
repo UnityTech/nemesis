@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/Unity-Technologies/nemesis/pkg/resource/gcp"
+	"github.com/UnityTech/nemesis/pkg/resource/gcp"
 
 	"github.com/golang/glog"
 

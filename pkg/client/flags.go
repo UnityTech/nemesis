@@ -3,7 +3,7 @@ package client
 import (
 	"flag"
 
-	"github.com/Unity-Technologies/nemesis/pkg/utils"
+	"github.com/UnityTech/nemesis/pkg/utils"
 )
 
 var (

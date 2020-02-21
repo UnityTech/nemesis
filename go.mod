@@ -1,4 +1,4 @@
-module github.com/Unity-Technologies/nemesis
+module github.com/UnityTech/nemesis
 
 go 1.13
 

@@ -4,13 +4,13 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Unity-Technologies/nemesis/pkg/report"
+	"github.com/UnityTech/nemesis/pkg/report"
 
-	"github.com/Unity-Technologies/nemesis/pkg/resource/gcp"
+	"github.com/UnityTech/nemesis/pkg/resource/gcp"
 
 	"google.golang.org/api/iterator"
 
-	"github.com/Unity-Technologies/nemesis/pkg/utils"
+	"github.com/UnityTech/nemesis/pkg/utils"
 	loggingpb "google.golang.org/genproto/googleapis/logging/v2"
 )
 

@@ -3,8 +3,8 @@ package client
 import (
 	"fmt"
 
-	"github.com/Unity-Technologies/nemesis/pkg/resource/gcp"
-	"github.com/Unity-Technologies/nemesis/pkg/utils"
+	"github.com/UnityTech/nemesis/pkg/resource/gcp"
+	"github.com/UnityTech/nemesis/pkg/utils"
 	"github.com/golang/glog"
 )
 

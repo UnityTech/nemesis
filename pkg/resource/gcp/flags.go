@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Unity-Technologies/nemesis/pkg/utils"
+	"github.com/UnityTech/nemesis/pkg/utils"
 	"github.com/golang/glog"
 )
 
